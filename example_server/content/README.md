@@ -1,0 +1,1 @@
+This is not real valid configuration. The purpose of this directory is to demonstrate the layout of sub directories in the server path and the syntax of the .ini files.
