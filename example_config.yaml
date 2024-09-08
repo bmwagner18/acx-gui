@@ -1,0 +1,3 @@
+# Server path should be one level above cfg and content directories
+# Just make it easy for both of us and include the trailing "/"
+server_path: /home/ben/assetto-servers/master/

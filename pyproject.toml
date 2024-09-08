@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "acx-gui"
+version = "0.1.0"
+package-mode = false
+description = "A simple web GUI for managing an Assetto Corsa server"
+authors = ["Ben Wagner <64104085+bmwagner18@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+nicegui = "^2.0.1"
+ruamel-yaml = "^0.18.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
