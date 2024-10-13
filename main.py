@@ -75,6 +75,7 @@ def create_ui(cars, tracks, path):
                 entries.append(f"[CAR_{i}]")
                 i = i+1
                 entries.append(f"MODEL={car}")
+                entries.append(f"SKIN=default/ABAH")
         # Print entries for debug
         print(entries)
         # Create the path to the config file
